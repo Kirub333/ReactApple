@@ -22,7 +22,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "homepage": "https://kirub333.github.io/ReactApple"
+    "homepage": "https://Kirub333.github.io/ReactApple"
   },
   "eslintConfig": {
     "extends": [
